@@ -1,0 +1,36 @@
+{
+  "name": "purge-css-loader",
+  "version": "1.0.0",
+  "description": "Webpack loader using css-purge module to minify your css.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dzianisreznik/purge-css-loader.git"
+  },
+  "keywords": [
+    "css",
+    "loader",
+    "webpack",
+    "css-purge",
+    "minify",
+    "\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D",
+    "purge\u001b[3~",
+    "\u001b[2~loader",
+    "webpack",
+    "css-purge",
+    "minify",
+    "webpack-loader"
+  ],
+  "author": "Dzianis Reznik <dzianis.reznik@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dzianisreznik/purge-css-loader/issues"
+  },
+  "homepage": "https://github.com/dzianisreznik/purge-css-loader",
+  "dependencies": {
+    "css-purge": "^3.0.4"
+  }
+}
